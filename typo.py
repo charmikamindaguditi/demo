@@ -1,4 +1,4 @@
 import streamlit as st
-st.header('Anime')
-st.write('Suzume')
-st.image('https://www.themoviedb.org/t/p/original/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg',caption='suzume')
+st.header('Chichhore')
+st.write('woh din')
+st.video('https://youtu.be/xC1cj9zhh6k?si=1hlkEriXhWaT3Cid')
